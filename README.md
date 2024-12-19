@@ -39,7 +39,7 @@ project/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/rice-leaf-disease.git
+git clone https://github.com/omkarynitturkar/Rice-Leaf-Disease-Detection-using-CNN.git
 cd rice-leaf-disease
 ```
 
